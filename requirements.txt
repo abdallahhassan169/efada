@@ -2,3 +2,4 @@ gunicorn
 ultralytics
 selenium
 flask
+cvzone
