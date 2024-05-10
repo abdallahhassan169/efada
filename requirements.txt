@@ -1,0 +1,4 @@
+gunicorn
+ultralytics
+selenium
+flask
